@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc-web-app", "mvc-web-app\mvc-web-app.csproj", "{E64505B1-F949-4BD1-A602-F9D0C25F2ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{16E4C927-C944-42B3-8DE2-3BE0846C4152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,17 @@ Global
 		{E64505B1-F949-4BD1-A602-F9D0C25F2ABB}.Release|x64.Build.0 = Release|Any CPU
 		{E64505B1-F949-4BD1-A602-F9D0C25F2ABB}.Release|x86.ActiveCfg = Release|Any CPU
 		{E64505B1-F949-4BD1-A602-F9D0C25F2ABB}.Release|x86.Build.0 = Release|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Debug|x64.Build.0 = Debug|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Debug|x86.Build.0 = Debug|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Release|x64.ActiveCfg = Release|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Release|x64.Build.0 = Release|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Release|x86.ActiveCfg = Release|Any CPU
+		{16E4C927-C944-42B3-8DE2-3BE0846C4152}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
